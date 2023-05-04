@@ -13,8 +13,3 @@
 - Shell • Vuejs • Express JS
 
 
-## Repo Stats 🔥
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=mywajs&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wwebjs&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wabot-go&theme=highcontrast)
-
