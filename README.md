@@ -10,7 +10,7 @@
 - PHP • Laravel • Codeigniter
 - Nodejs
 - Python • Javascript
-- Shell • Vuejs • Express JS
+- Shell • Express JS
 
 ## Other [Github](https://github.com/triyatna) 
 
