@@ -12,4 +12,6 @@
 - Python • Javascript
 - Shell • Vuejs • Express JS
 
+## Other [Github](https://github.com/triyatna) 
+
 
